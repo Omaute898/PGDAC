@@ -1,0 +1,52 @@
+img {
+  height: 500px;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e4f5fc+0,bfe8f9+21,9fd8ef+47,2ab0ed+82 */
+  background: #f0f0ef; /* Old browsers */
+  background: -moz-linear-gradient(
+    left,
+    rgb(239, 238, 238) 0%,
+    #ecebea 21%,
+    #f7f6f4 47%,
+    #f5f4f3 82%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    left,
+    rgb(239, 238, 238) 0%,
+    #ecebea 21%,
+    #f7f6f4 47%,
+    #f5f4f3 82%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    left,
+    rgb(239, 238, 238) 0%,
+    #ecebea 21%,
+    #f7f6f4 47%,
+    #f5f4f3 82%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b45454', endColorstr='#a82a2a',GradientType=1 ); /* IE6-9 */
+}
+.text {
+  text-align: center;
+ 
+}
+.blocktext {
+  margin-top: 100px;
+  height: 500px;
+ margin-left: 240px;
+  align-items: center
+}
+#home{
+ 
+  margin :0px;
+  width: 100%;
+  height: 100%;
+ object-fit: cover;
+ 
+}
+.profile{
+  margin-left: 280px;
+}
+.profilebutton{
+  margin-left: 260px;
+}
